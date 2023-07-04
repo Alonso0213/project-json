@@ -1,0 +1,39 @@
+{"projects": [
+    {
+      "id": "1",
+      "image": "https://i.postimg.cc/tRxzZxP5/Screenshot-2023-07-04-205442.png",
+      "description": "This is a e-commerce web page i made with java-script",
+       "link":"https://alonso-ecomsite.netlify.app/"
+    },
+    {
+        "id": "2",
+        "image": "https://i.postimg.cc/mrgwtpNz/Screenshot-2023-07-04-205530.png",
+        "description": "This is a to-do list that i created",
+        "link":"https://whimsical-malabi-a256eb.netlify.app/"
+      },
+      {
+        "id": "3",
+        "image": "https://i.postimg.cc/kM0ffc9z/Screenshot-2023-07-04-205602.png",
+        "description": "Here i built a temperature conver using java-script",
+        "link":"https://leafy-crumble-de63f5.netlify.app/"
+      },
+      {
+        "id": "4",
+        "image": "https://i.postimg.cc/9Fy1S7QM/Screenshot-2023-07-04-205636.png",
+        "description": "Here i built a BMi calculator using java-script",
+        "link":"https://fabulous-chimera-5c9dd2.netlify.app/"
+        
+      },
+      {
+        "id": "5",
+        "image": "https://i.postimg.cc/fRZ5hRVv/Screenshot-2023-07-04-205708.png",
+        "description": "Here i built a calculator using java-script",
+        "link":"https://luminous-yeot-5cd1b3.netlify.app/"
+      },
+      {
+        "id": "6",
+        "image": "https://i.postimg.cc/W1n8pcrc/Screenshot-2023-07-04-205744.png",
+        "description": "This is my first portfolio i made with Html, CSS and Bootstrap",
+        "link":"https://alonso-portfolio1.netlify.app/"
+      }
+  ]}
